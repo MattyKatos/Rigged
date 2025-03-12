@@ -1,0 +1,14 @@
+{
+  "name": "rigged",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+      "start": "electron .",
+      "setup": "node setup.js"
+  },
+  "dependencies": {
+      "electron": "^35.0.1",
+      "js-yaml": "^4.1.0",
+      "tmi.js": "^1.8.5"
+  }
+}

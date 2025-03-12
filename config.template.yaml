@@ -1,0 +1,17 @@
+# Description: This file contains the configuration for the bot.
+# Edit this file to configure the bot to your liking.
+
+PopupConfiguration:
+  MaxPopups: 25 # Max number of popups that can be spawned
+  MinPopups: 1 # Min number of popups that can be spawned
+  MaxDuration: 10000 # Max duration of a popup (in milliseconds)
+  MinDuration: 5000 # Min duration of a popup (in milliseconds)
+  WindowWidth: 697 # Width of the popup window
+  WindowHeight: 456 # Height of the popup window
+  SpawnDelay: 100 # Delay between spawning popups (in milliseconds)
+  RespondToUser: 1 # Respond to user input (1 = true, 0 = false)
+
+TwitchConfiguration:
+  Username: 'your_twitch_username'
+  Token: 'your_twitch_oauth_token'
+  Channel: 'your_twitch_channel'
