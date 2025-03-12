@@ -25,9 +25,10 @@ Pictures not included
     npm install
     ```
 
-3. Create a `config.yaml` file based on the `config.template.yaml` file:
+3. Create a `config.yaml` file based on the `config.template.yaml` file.
 
-4. Edit the `config.yaml` file to include your Twitch credentials and desired configuration:
+4. Edit the `config.yaml` file to include your Twitch credentials and desired configuration.
+You can generate your OAUTH code here: https://twitchtokengenerator.com/
 
 ## Usage
 
