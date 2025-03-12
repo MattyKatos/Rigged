@@ -48,3 +48,5 @@ Each window will close itself after a random time.
 ## License
 
 This project is licensed under the MIT License.
+
+![Rigged](https://cdn.discordapp.com/attachments/999510862467444778/1349237641404481536/IMG_6810.png?ex=67d25ef9&is=67d10d79&hm=0ceaafeb559fc420fb66d53625a0366a525c2f2b6689b00ef7a6ea729ce6b150&)
