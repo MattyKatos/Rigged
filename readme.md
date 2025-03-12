@@ -3,7 +3,8 @@ Rigged is a Twitch bot that spawns Electron windows with random images from the 
 
 ![Rigged](https://cdn.discordapp.com/attachments/999510862467444778/1349237641404481536/IMG_6810.png?ex=67d25ef9&is=67d10d79&hm=0ceaafeb559fc420fb66d53625a0366a525c2f2b6689b00ef7a6ea729ce6b150&)
 
-Pictures not included
+You'll need to capture your display instead of just your window for this to work. 
+You have to run this shell on the device you want the windows to pop-up on.
 
 ## Prerequisites
 
